@@ -51,7 +51,7 @@ function connectToCore () {
         commands = []
         localStorage.clear()
 
-        total = 'command=' + encodeURIComponent('Консоль была очищена...')
+        total = 'command=' + encodeURIComponent('The console has been cleared ...')
       }
 
       this.value = ''
