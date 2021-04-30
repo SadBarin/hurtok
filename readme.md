@@ -16,3 +16,5 @@ Project create with pure CSS, JS and PHP
 **RNU n, n, ...**  - for random number   
 **RWO n, n, ...**  - for random letters    
 **PAS n, n, ...**  - for random password   
+
+![image](https://user-images.githubusercontent.com/60666903/116673240-d2702a00-a9ab-11eb-8aca-ea1b367e4f3d.png)
